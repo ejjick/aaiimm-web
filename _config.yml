@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 github:
   is_project_page: false
+  zip_url: aaiimm-1.0.0.zip
 title: Aaiimm
 description: Search smarter, find faster
