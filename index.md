@@ -5,5 +5,6 @@ The Aaiimm browser extension is pending review by Google. Meanwhile you can down
 1. [Download](aaiimm-1.0.0.zip) and extract the ZIP file.
 2. Drag and drop the `dist` folder into "Manage extensions".
 
+---
 
 ![Aaiimm 1.0.0 - Screenshot](aaiimm-1.0.0-screenshot.png)
