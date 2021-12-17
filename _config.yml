@@ -3,6 +3,6 @@ github:
   is_project_page: false
   zip_url: aaiimm-1.1.1.zip
   tar_url: aaiimm-1.1.1.tar.xz
-show_downloads: true
+show_downloads: false
 title: Aaiimm
 description: Search smarter, find faster
